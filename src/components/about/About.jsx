@@ -24,8 +24,8 @@ const About = () => {
                     Je suis étudiant en informatique à Epitech Montpellier.
                     Je suis passionné par la programmation et les nouvelles technologies. Je pratique le football américain
                     et la musculation. Je suis rigoureux, autodidacte et j'aime surtout travailler avec les
-                    autres. J'ai principalement pratiqué le C lors de ma première année à Epitech et
-                    j'ai également développé en Javascript et en Python.
+                    autres. J'ai principalement pratiqué le C lors de ma première année à Epitech.
+                    J'ai également développé en Javascript et en Python.
                 </p>
                 <div className="a-formation">
                     <img src={Epitech}
