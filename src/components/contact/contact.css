@@ -17,6 +17,9 @@
 
 .c-left {
   flex: 1;
+  border: 3px solid rgb(0, 132, 255);
+  margin: 100px;
+  padding: 50px;
 }
 
 .c-right {

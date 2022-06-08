@@ -9,7 +9,7 @@ const ProductList = () => {
                 <h1 className="pl-title">Mes projets : </h1>
                 <p className="pl-desc">
                     Voici une liste de mes projets effectués à Epitech
-                    ou réalisés personnelement.
+                    ou réalisés personnellement.
                 </p>
             </div>
             <div className="pl-list">

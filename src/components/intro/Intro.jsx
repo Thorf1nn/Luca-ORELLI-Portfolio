@@ -17,7 +17,7 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            Je suis actuellement étudiant en 1re année à Epitech Montpellier.
+            Etudiant en 1re année à Epitech Montpellier.
           </p>
         </div>
         <svg

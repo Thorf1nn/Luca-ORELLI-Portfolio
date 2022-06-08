@@ -1,5 +1,5 @@
 .p{
-    width: 30%;
+    width: 31%;
     height: 40vh;
     margin: 20px 10px;
     border: 2px solid rgb(243, 242, 242);
@@ -23,7 +23,8 @@
 
 .p-img{
     width: 100%;
-    transition: all 10s ease;
+    height: 100%;
+    object-fit: cover;
 }
 
 @media screen and (max-width:480px) {

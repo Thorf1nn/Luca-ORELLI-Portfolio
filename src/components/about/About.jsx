@@ -16,15 +16,16 @@ const About = () => {
                 </div>
             </div>
             <div className="a-right">
-                <h1 className="a-title">A propos de moi</h1>
+                <h1 className="a-title">À propos de moi</h1>
                 <p className="a-sub">
-                    Bonjour je m'appelle Luca ORELLI et je suis actuellement à Epitech Montpellier.
+                    Bonjour je m'appelle Luca ORELLI.
                 </p>
                 <p className="a-desc">
-                    Étant passionner de nouvelles technologies depuis petit et ayant un atrai particulier pour l'informatique,
-                    mais n'aimant pas particulierment la pédagogie scolaire classique, c'est tout naturellement que je me suis dirigé vers Epitech.
-                    J'ai pu exerimenter différents langages durant ma scolarité tel que le C, le python et le javascript.
-                    Je suis actuellement entrain d'apprendre le React.
+                    Je suis étudiant en informatique à Epitech Montpellier.
+                    Je suis passionné par la programmation et l'informatique. Je pratique le football américain
+                    et la musculation. Je suis rigoureux, autodidacte et j'aime surtout travailler avec les
+                    autres. J'ai principalement pratiqué le C lors de ma première année à Epitech et
+                    j'ai également développé en Javascript et en Python.
                 </p>
                 <div className="a-formation">
                     <img src={Epitech}

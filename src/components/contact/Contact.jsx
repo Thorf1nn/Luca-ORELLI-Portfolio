@@ -3,7 +3,6 @@ import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
 import Linkedin from "../../img/linkedin.png";
-import Discord from "../../img/discord.png";
 import React, { useRef, useState } from 'react';
 import emailjs from "@emailjs/browser";
 
@@ -36,7 +35,7 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title"> Contactez moi !</h1>
+          <h1 className="c-title">Contacts : </h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
@@ -54,15 +53,11 @@ const Contact = () => {
               <img src={Linkedin} alt="" className="c-icon" />
               Luca ORELLI
             </div>
-            <div className="c-info-item">
-              <img src={Discord} alt="" className="c-icon" />
-              Luca O.#7911
-            </div>
           </div>
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Où me contacter ?</b> Je suis toujours disponible pour une stage
+            <b>Vous souhaitez me contacter ?</b> Je recherche actuellement un stage
             de 4 à 6 mois.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>

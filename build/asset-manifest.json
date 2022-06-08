@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Luca-ORELLI-Portfolio/static/css/main.7136e5e7.chunk.css",
+    "main.js": "/Luca-ORELLI-Portfolio/static/js/main.37c20356.chunk.js",
+    "main.js.map": "/Luca-ORELLI-Portfolio/static/js/main.37c20356.chunk.js.map",
+    "runtime-main.js": "/Luca-ORELLI-Portfolio/static/js/runtime-main.225e97cf.js",
+    "runtime-main.js.map": "/Luca-ORELLI-Portfolio/static/js/runtime-main.225e97cf.js.map",
+    "static/js/2.236f0578.chunk.js": "/Luca-ORELLI-Portfolio/static/js/2.236f0578.chunk.js",
+    "static/js/2.236f0578.chunk.js.map": "/Luca-ORELLI-Portfolio/static/js/2.236f0578.chunk.js.map",
+    "index.html": "/Luca-ORELLI-Portfolio/index.html",
+    "static/css/main.7136e5e7.chunk.css.map": "/Luca-ORELLI-Portfolio/static/css/main.7136e5e7.chunk.css.map",
+    "static/js/2.236f0578.chunk.js.LICENSE.txt": "/Luca-ORELLI-Portfolio/static/js/2.236f0578.chunk.js.LICENSE.txt",
+    "static/media/Me.f6b0704f.png": "/Luca-ORELLI-Portfolio/static/media/Me.f6b0704f.png",
+    "static/media/Me2.b3180825.jpg": "/Luca-ORELLI-Portfolio/static/media/Me2.b3180825.jpg",
+    "static/media/address.a01cb8cc.png": "/Luca-ORELLI-Portfolio/static/media/address.a01cb8cc.png",
+    "static/media/discord.2c27c419.png": "/Luca-ORELLI-Portfolio/static/media/discord.2c27c419.png",
+    "static/media/email.a49e0158.png": "/Luca-ORELLI-Portfolio/static/media/email.a49e0158.png",
+    "static/media/phone.d90a6d23.png": "/Luca-ORELLI-Portfolio/static/media/phone.d90a6d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.225e97cf.js",
+    "static/js/2.236f0578.chunk.js",
+    "static/css/main.7136e5e7.chunk.css",
+    "static/js/main.37c20356.chunk.js"
+  ]
+}
