@@ -22,7 +22,7 @@ const About = () => {
                 </p>
                 <p className="a-desc">
                     Je suis étudiant en informatique à Epitech Montpellier.
-                    Je suis passionné par la programmation et l'informatique. Je pratique le football américain
+                    Je suis passionné par la programmation et les nouvelles technologies. Je pratique le football américain
                     et la musculation. Je suis rigoureux, autodidacte et j'aime surtout travailler avec les
                     autres. J'ai principalement pratiqué le C lors de ma première année à Epitech et
                     j'ai également développé en Javascript et en Python.
